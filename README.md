@@ -9,6 +9,5 @@
 
 - 🌐 Crafting seamless web experiences with the MERN stack
 - 📱 Building cross-platform mobile apps with React Native
-- 🐍 Solving complex problems with Python
+- 🐍 Exploring machine learning principles in Python
 - ⚡ Automating workflows using PowerShell
-- 🤖 Specializing in machine learning applications
